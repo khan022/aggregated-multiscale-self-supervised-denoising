@@ -1,0 +1,15 @@
+name: myenv
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - glob2
+  - matplotlib
+  - numpy
+  - opencv
+  - pillow
+  - scikit-image
+  - scikit-learn
+  - tensorflow=2.6.0
+  - pip:
+    - re2
