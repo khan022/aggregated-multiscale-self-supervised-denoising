@@ -18,7 +18,7 @@ To use the code in this repository, follow these steps:
 2. For target image creation the location of the noisy image has to be provided to target_data_ceration.npy
 3. The creating_npy_for_training.py needs both noisy images and target images locations.
 4. The training is done using gradient tape of tensorflow with custom optimzer and custom loss functions.
-5. Some patches of different methods comparing with our method is provided demo_compare folder.
+5. Some patches of different methods comparing with our method on three different datasets are provided demo_results folder.
 6. The link for this thesis is http://www.riss.kr/link?id=T16658595.
 
 ## Contact
