@@ -1,4 +1,3 @@
-# aggregated-multiscale-self-supervised-denoising
 # Aggregated Multiscale Self-Supervised Denoising
 
 This repository contains the code for a self-supervised image denoising training procedure, testing, and some sample images, developed as part of a master's degree thesis.
